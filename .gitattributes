@@ -1,8 +1,8 @@
-*.c linguist-detectable=true
-*.makefile linguist-detectable=true
-*.shell linguist-detectable=true
-*.perl linguist-detectable=true
-*.roff linguist-detectable=false
+*.C linguist-detectable=true
+*.Makefile linguist-detectable=true
+*.Shell linguist-detectable=true
+*.Perl linguist-detectable=true
+*.Roff linguist-detectable=false
 
 # *.3 linguist-documentation
 # *.3 linguist-language=MiniLibX 
