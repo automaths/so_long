@@ -1,3 +1,9 @@
-*.3 linguist-documentation
-*.3 linguist-language=MiniLibX 
-*.h5 filter=lfs diff=lfs merge=lfs -text
+*.c linguist-detectable=true
+*.makefile linguist-detectable=true
+*.shell linguist-detectable=true
+*.perl linguist-detectable=true
+*.roff linguist-detectable=false
+
+# *.3 linguist-documentation
+# *.3 linguist-language=MiniLibX 
+# *.h5 filter=lfs diff=lfs merge=lfs -text
