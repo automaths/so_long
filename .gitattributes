@@ -1,9 +1,2 @@
-# *.C linguist-detectable=true
-# *.Makefile linguist-detectable=true
-# *.Shell linguist-detectable=true
-# *.Perl linguist-detectable=true
-# *.Roff linguist-detectable=false
-
-# *.3 linguist-documentation
-*.* linguist-language=C 
+*.* linguist-language=c
 *.h5 filter=lfs diff=lfs merge=lfs -text
